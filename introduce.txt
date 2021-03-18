@@ -25,7 +25,7 @@
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * *   
 This simple game just a learning project my Learn Python3 Cource on codecademy
-Push the space button six times and make a divination. 
+Enter your name and push ENTER to start a divination. 
 After it you can read your I Ching advice. 
 Disclaimer: This is just the game! Please do not use it to make real decisions
 * * * * * * * * * * * * * * * * * * * * * * * * * * *   
